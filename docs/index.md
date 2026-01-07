@@ -31,7 +31,7 @@ nav_order: 1
 Have questions about the analysis or interested in collaboration?
 
 📧 [bhurtyalsanjeev@gmail.com](mailto:bhurtyalsanjeev@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/sanjeev-bhurtyal/)  
-🐙 [GitHub](https://github.com/sanjeevbhurtyal)
+💼 [LinkedIn](https://www.linkedin.com/in/sanjeev-bhurtyal/){: target="_blank"}   
+🐙 [GitHub](https://github.com/sanjeevbhurtyal){: target="_blank"} 
 
 ---
