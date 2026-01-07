@@ -6,6 +6,7 @@
 .site-header {
   padding-top: 1rem !important;
   padding-bottom: 1rem !important;
+  position: relative !important;
 }
 
 .site-logo {
@@ -29,10 +30,9 @@ h3 a {
 }
 
 blockquote {
-  color: #5c5962 !important;  // This is text-grey-dk-300
   border-left: none !important;  // Optional: removes the left border
-  
-  p {
-    color: inherit !important;
-  }
+}
+
+.nav-list {
+  display: none !important;
 }
