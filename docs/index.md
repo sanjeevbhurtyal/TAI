@@ -9,6 +9,13 @@ nav_order: 1
 
 ### 🚆 [Translink Origin-Destination Analysis](translink-od/){: target="_blank"}
 {: .mb-1}
+
+Translink \| Patronage \| Public Transport \| Data Visualization \| Python
+{: .text-grey-dk-000 .fs-3 .mb-2}
+
+<details markdown="block">
+  <summary>Click to expand summary</summary>
+
 >Analyzing **470 million trips** across TransLink's network (2022-2025) to uncover travel patterns, mode preferences, and payment trends.
 >{: .text-grey-dk-300 .fs-3 }
 >**Key Findings:** 
@@ -21,8 +28,38 @@ nav_order: 1
 >- **Growth is spatially uneven**: Springfield Central and Bowen Hills grew 35%+ while Donnan and Riverbend declined 80%, requiring targeted intervention.
 {: .text-grey-dk-300 .fs-3 }
 
+</details>
+
 > [Read Full Analysis →](translink-od/){: .btn .btn-blue  target="_blank"}
 > [View Dashboard →](https://public.tableau.com/app/profile/sanjeev.bhurtyal2011/viz/TranslinkPatronageAnlaysis/SuburbProfile){: .btn .btn-outline target="_blank"}
+> [View Code Repository →](https://github.com/sanjeevbhurtyal/Translink_OD_Trip_Analysis){: .btn .btn-outline target="_blank"}
+
+---
+
+### 🤖 [Feature Engineering Impact Analysis](feature_engineering_impact_analysis/){: target="_blank"}
+{: .mb-1}
+
+Machine Learning \| Time Series Forecasting \| Feature Engineering \| Python
+{: .text-grey-dk-000 .fs-3 .mb-2}
+
+<details markdown="block">
+  <summary>Click to expand summary</summary>
+  
+>This analysis demonstrates the critical importance of feature engineering in machine learning through a controlled experiment using London bike sharing demand forecasting.
+>{: .text-grey-dk-300 .fs-3 }
+>
+>**Key Findings:**
+>{: .text-grey-dk-300 .fs-3 }
+>- 🎯 Well-engineered features improved all four models (SARIMAX, XGBoost, LSTM, Prophet) by 5-22% across metrics
+>- 📈 LSTM showed highest sensitivity (22% improvement); complex models benefit most from rich features
+>- ⚠️ Naive daily aggregation destroyed temporal patterns; time-of-day segmentation preserved critical information
+>- 🏆 Prophet achieved best performance, but universal improvement proves feature engineering is foundational
+{: .text-grey-dk-300 .fs-3 }
+
+</details>
+
+> [Read Full Analysis →](feature_engineering_impact_analysis/){: .btn .btn-blue  target="_blank"}
+> [View Code Repository →](https://github.com/sanjeevbhurtyal/London-Bike-Sharing-Forecaset-Python-ML){: .btn .btn-outline target="_blank"}
 
 ---
 
@@ -37,12 +74,4 @@ nav_order: 1
 {: .text-grey-dk-300 .fs-3 }
 >[View Publications →](publications/){: .btn .btn-blue target="_blank"}
 
-## Get in Touch
-
-Have questions about the analysis or interested in collaboration?
-
-- [bhurtyalsanjeev@gmail.com](mailto:bhurtyalsanjeev@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/sanjeev-bhurtyal/){: target="_blank"}   
-- [GitHub](https://github.com/sanjeevbhurtyal){: target="_blank"} 
-
----
+{% include get-in-touch.html %}

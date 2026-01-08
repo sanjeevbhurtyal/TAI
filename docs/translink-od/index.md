@@ -196,3 +196,5 @@ At the opposite extreme, **Donnan, Riverbend, and North Arm experienced patronag
 - Data is obtained from Queensland Government <a href="https://www.data.qld.gov.au/dataset/translink-origin-destination-trips-2022-onwards" target="_blank" rel="noopener noreferrer">Open Data Portal</a> Website.
 - All results are reproducible using the scripts and notebooks provided in <a href="https://github.com/sanjeevbhurtyal/Translink_OD_Trip_Analysis" target="_blank" rel="noopener noreferrer">GitHub repository</a> .
 - Granual analysis at suburb and operator level is available at <a href="https://public.tableau.com/views/TranslinkPatronageAnlaysis/SuburbProfile?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Tableau dashboard</a>.
+
+{% include get-in-touch.html %}
