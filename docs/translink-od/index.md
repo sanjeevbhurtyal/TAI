@@ -5,7 +5,10 @@ nav_enabled: true
 
 
 
-# Decoding Translink Origin Destination Patronage Data
+<h1 style="text-align:center;">
+Decoding Translink Origin Destination Patronage Data
+</h1>
+
 {: .no_toc}
 
 <p align="center">

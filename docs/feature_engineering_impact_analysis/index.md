@@ -3,7 +3,9 @@ title: Feature Engineering Impact Analysis
 nav_enabled: true
 ---
 
-# The Critical Role of Feature Engineering in Time Series Forecasting
+<h1 style="text-align:center;">
+The Critical Role of Feature Engineering in Time Series Forecasting
+</h1>
 {: .no_toc}
 
 <p align="center">
