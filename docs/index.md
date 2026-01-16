@@ -3,11 +3,39 @@ layout: home
 title: Home
 nav_order: 1
 ---
-<h1>Transport Analytics & Insights</h1>
+<h1 style="text-align:center;">
+<strong>Transport Analytics & Insights</strong>
+</h1>
 
-## Projects
+## 🚇 [Mapping Connectivity Across Brisbane: What GTFS Reveals](brisbane_connectivity/){: target="_blank"}
+{: .mb-1}
 
-### 🚆 [Translink Origin-Destination Analysis](translink-od/){: target="_blank"}
+GTFS \| Geospatial Analysis \| Public Transport Analytics \| Brisbane City \| Accessibility Analysis
+{: .text-grey-dk-000 .fs-3 .mb-2}
+
+<details markdown="block">
+  <summary>Click to expand summary</summary>
+
+>Analyzing **244 direct suburb connections** to Brisbane City using GTFS data (January 12-18, 2026) to reveal how efficiently residents can reach the city center across different modes and time periods.
+>{: .text-grey-dk-300 .fs-3 }
+>**Key Findings:** 
+>{: .text-black-dk-300 .fs-3 }
+>- 🚌 **Modal redundancy is limited**: 53% of suburbs rely exclusively on bus and 26% solely on train—only 16% have both modes
+>- ⛴️ **Ferry delivers fastest median times** (23 minutes) but serves only 13 waterfront suburbs
+>- ⏱️ **Only 31% of suburbs meet the "30-minute city" threshold**—just 28% for bus, 39% for train, and 77% for ferry serving suburbs
+>- 📉 **Weekend service drops disproportionately**: 24% fewer bus-only suburbs served vs. 9% for train-only suburbs
+>- 🎯 **Network quality is polarized**: 40% enjoy fast and frequent service while 37% face slow and infrequent connections
+>- 🚄 **Rail outperforms bus where both exist**: median advantage of 15 minutes or less, with northern suburbs showing up to 30 minutes faster rail travel
+{: .text-grey-dk-300 .fs-3 }
+
+</details>
+
+> [Read Full Analysis →](brisbane_connectivity/){: .btn .btn-blue target="_blank"}
+> [View Code Repository →](https://github.com/sanjeevbhurtyal/SEQ_Suburb_Transit_Metrics){: .btn .btn-outline target="_blank"}
+
+---
+
+## 🚆 [Translink Origin-Destination Analysis](translink-od/){: target="_blank"}
 {: .mb-1}
 
 Translink \| Patronage \| Public Transport \| Data Visualization \| Python
@@ -36,7 +64,7 @@ Translink \| Patronage \| Public Transport \| Data Visualization \| Python
 
 ---
 
-### 🤖 [Feature Engineering Impact Analysis](feature_engineering_impact_analysis/){: target="_blank"}
+## 🤖 [Feature Engineering Impact Analysis](feature_engineering_impact_analysis/){: target="_blank"}
 {: .mb-1}
 
 Machine Learning \| Time Series Forecasting \| Feature Engineering \| Python
